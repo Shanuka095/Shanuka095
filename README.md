@@ -10,8 +10,7 @@
    🚀 Skilled in Java, JavaScript, MERN Stack, Strapi CMS, Tailwind CSS, and Bootstrap
  
    💡 Enthusiastic about UI/UX Designing & Problem Solving
- 
-   📫 How to reach me **shanukainduran@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
