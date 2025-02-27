@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanuka095&label=Profile%20views&color=0e75b6&style=flat" alt="shanuka095" /> </p>
 
 - 🎓 BSc (Hons) Software Engineering Student at SLIIT
-- 
+
 - 👨‍💻 Passionate about Full Stack Development
-- 
+ 
 - 🚀 Skilled in Java, JavaScript, MERN Stack, Strapi CMS, Tailwind CSS, and Bootstrap
-- 
+ 
 - 💡 Enthusiastic about UI/UX Designing & Problem Solving
-- 
+ 
 - 📫 How to reach me **shanukainduran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
