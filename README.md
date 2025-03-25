@@ -44,6 +44,7 @@
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/ChillBroh.svg)](https://user-badge.committers.top/sri_lanka/ChillBroh)
 
 <table align="center">
 <tr border="none">
