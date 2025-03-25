@@ -44,7 +44,9 @@
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shanuka095&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Shanuka095" / ></a> </p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanuka095&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Shanuka095" /></p>
 
 
 
