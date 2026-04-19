@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanuka095&label=Profile%20views&color=0e75b6&style=flat" alt="shanuka095" /> </p>
 
-   🎓 BSc (Hons) Software Engineering Student
+   🎓 BSc (Hons) Software Engineering Final Year Student
 
    👨‍💻 Passionate about Full Stack Development
  
